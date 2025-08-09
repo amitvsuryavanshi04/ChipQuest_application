@@ -1,6 +1,6 @@
 # ChipQuest_application
 
-# Amit Suryavanshi – Application for Synopsys R&D Engineering Internship (Noida)
+# Amit Suryavanshi – Application for Synopsys R&D Engineering Internship 
 
 ## 🎯 Objective
 I am seeking an opportunity with the Synopsys R&D Engineering team to **apply my skills in Digital Design, Verification** to real-world challenges.  
